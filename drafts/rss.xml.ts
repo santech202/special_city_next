@@ -7,9 +7,9 @@ import {seo} from '@/utils/constants'
 const baseUrl = `${process.env.NEXT_PUBLIC_APP_URL}`
 
 const author = {
-  name: 'Marat Faizer',
-  email: 'maratismodest@gmail.com',
-  link: 'https://t.me/maratfaizer',
+  name: 'Illia',
+  email: 'xxx@example.com',
+  link: '',
 }
 
 const RSS = async (req: NextApiRequest, res: NextApiResponse) => {
